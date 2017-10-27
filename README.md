@@ -1,1 +1,1 @@
-
+Note, it's not possible to build this into an executable from these files alone. All required libraries must be downloaded, and a method to bundle .py files into an executable must be used. I used the cx_freeze library, and ran setup.py to build. 
